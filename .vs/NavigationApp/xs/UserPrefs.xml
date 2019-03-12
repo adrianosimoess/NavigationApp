@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{65706B0D-DE9E-4CD3-AC6D-42B4BA473CFD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NavigationApp/App.xaml.cs">
+    <Files>
+      <File FileName="NavigationApp/MainPage.xaml" Line="13" Column="43" />
+      <File FileName="NavigationApp/MainPage.xaml.cs" Line="21" Column="6" />
+      <File FileName="NavigationApp/SegPage.xaml" Line="13" Column="50" />
+      <File FileName="NavigationApp/SegPage.xaml.cs" Line="16" Column="10" />
+      <File FileName="NavigationApp/App.xaml.cs" Line="12" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NavigationApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NavigationApp.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>
